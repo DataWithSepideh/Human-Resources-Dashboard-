@@ -48,6 +48,8 @@ The income analysis section should focus on salary-related metrics, including:
 ## 📌Dashboard Preview
 #### HR Dashboard - OverView
 ![HR  Summary](https://github.com/DataWithSepideh/Human-Resources-Dashboard-/blob/main/HR%20_%20Overview.png)
+#### HR Dashboard - Details
+![HR  Details](
 
 
 
