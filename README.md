@@ -36,6 +36,22 @@ The income analysis section should focus on salary-related metrics, including:
 - Provide a comprehensive list of all employees with necessary information such as **name, department, position, gender, age, education, and salary**.  
 - Users should be able to **filter the list based on any of the available columns**.
 
+- ## 📌Color Reference
+
+| Color           | Hex Code  |
+|---------------|----------|
+| Dark Gray           | `#777777` |
+| White          | `#F5F5F5` |
+| Persian Green  | `#03C4A1` |
+| Royal Fuchsia  | `#C52A87` |
+
+## 📌Dashboard Preview
+#### HR Dashboard - OverView
+
+
+
+#### Dashboard Link: https://public.tableau.com/app/profile/sepideh.arabi/viz/HRDashboard_17404862476630/HRSummary
+
 ## 📌 How to Use the Dashboard
 - Navigate between **Summary View & Employee Records View**.
 - Click on **info** to see more information.
